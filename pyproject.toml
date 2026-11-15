@@ -6,9 +6,15 @@ build-backend = "setuptools.build_meta"
 name = "aml"
 version = "0.1.0"
 description = "Anti-money laundering analytics on the IBM synthetic transactions dataset"
+authors = [
+    { name = "kanishk", email = "kanishkthakur12006@gmail.com" }
+]
 requires-python = ">=3.10"
 license = { text = "MIT" }
 readme = "README.md"
+
+[project.urls]
+Repository = "https://github.com/devrot-ai/IBM-fraud-detector-"
 
 [tool.setuptools.packages.find]
 where = ["src"]

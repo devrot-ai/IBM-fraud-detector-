@@ -6,6 +6,9 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-temporal%20split-brightgreen)
 ![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-red)
 
+> **Built by [kanishk (devrot-ai)](https://github.com/devrot-ai)**  
+> **Repository:** [https://github.com/devrot-ai/IBM-fraud-detector-](https://github.com/devrot-ai/IBM-fraud-detector-)
+
 An end-to-end analytics project on the IBM "Transactions for Anti Money Laundering" data
 (Altman et al., NeurIPS 2023; Kaggle `ealtman2019/ibm-transactions-for-anti-money-laundering-aml`).
 It covers ingestion and currency normalisation, graph analysis, rule-based typology detectors,
@@ -225,6 +228,10 @@ notebooks/             01_eda, 02_graph, 03_results (+ .py sources)
 reports/               tables/ (tracked) and figures/ (git-ignored, regenerated)
 tests/                 pytest suite (also covers the dashboard with AppTest)
 ```
+
+## Author
+
+Built by **[kanishk](https://github.com/devrot-ai)** ([@devrot-ai](https://github.com/devrot-ai)).
 
 ## License
 
